@@ -66,7 +66,4 @@ The tool enables cellular network planners to model and analyze system performan
 - Both implementations are aligned in logic and assumptions to allow comparison.
 - MATLAB version offers better visualization; Python version allows faster iterations.
 
----
-
-Contributions and feedback are welcome!
 
